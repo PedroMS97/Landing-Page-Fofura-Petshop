@@ -1,0 +1,19 @@
+# Estado local das imagens (base64 pesado, não vai para o repo)
+.image-slots.state.json
+
+# Uploads locais
+uploads/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Node (caso instale dependências futuramente)
+node_modules/
