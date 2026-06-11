@@ -1,0 +1,3 @@
+# Arquivos internos — não precisam ir para produção
+.image-slots.state.json
+cores.md
